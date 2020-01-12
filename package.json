@@ -1,0 +1,11 @@
+{
+  "name": "blogpost-project",
+  "version": "1.0.0",
+  "description": "Practice Project for ejs template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mdjack",
+  "license": "MIT"
+}
